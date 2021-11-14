@@ -1,0 +1,18 @@
+color 1:(body)
+#15171c
+
+color 2:
+#272727
+
+text-color 1:
+#666
+
+text-color 2:
+#fff
+
+text-color 3:
+#a4a4a4
+
+text-color 4:
+
+#686868
